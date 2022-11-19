@@ -1,0 +1,13 @@
+/* _content/Hackathon 2/Shared/Footer.razor.rz.scp.css */
+<h3>Footer.razor</h3>
+
+@code[b-fz61kcwbhj] {
+
+}
+/* _content/Hackathon 2/Shared/Header.razor.rz.scp.css */
+/* _content/Hackathon 2/Shared/MainLayout.razor.rz.scp.css */
+.background[b-6sm65tiqxr] {
+    background-color: black;
+    width: 100%;
+    padding: 6px 4px;
+}

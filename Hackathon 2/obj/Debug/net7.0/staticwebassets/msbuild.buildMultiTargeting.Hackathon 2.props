@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Hackathon 2.props" />
+</Project>
