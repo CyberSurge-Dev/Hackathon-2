@@ -57,6 +57,10 @@
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
+      "Id": "D:\\visual studio code\\Hackathon 2\\Hackathon 2\\wwwroot\\images\\img.png",
+      "PackagePath": "staticwebassets\\images\\img.png"
+    },
+    {
       "Id": "D:\\visual studio code\\Hackathon 2\\Hackathon 2\\wwwroot\\images\\robot.webp",
       "PackagePath": "staticwebassets\\images\\robot.webp"
     },

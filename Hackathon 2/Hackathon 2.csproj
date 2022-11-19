@@ -8,7 +8,19 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Shared\Docs\CadPage.razor.css" />
+    <None Remove="Shared\LandingPage.razor.css" />
+    <None Remove="Shared\LogoArea - Copy.razor.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Shared\Docs\CadPage.razor.css" />
+    <Content Include="Shared\LandingPage.razor.css" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="BlazorAnimate" Version="3.0.0" />
+    <PackageReference Include="Syncfusion.Blazor" Version="20.3.0.57" />
   </ItemGroup>
 
 </Project>

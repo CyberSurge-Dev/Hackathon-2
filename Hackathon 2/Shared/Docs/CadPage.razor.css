@@ -1,0 +1,71 @@
+﻿h1, p {
+	font-family: Nunito, sans-serif;
+}
+p {
+	font-size: 22px;
+	font-weight: normal;
+}
+h1 {
+	font-weight: bold;
+	font-size: 32px;
+}
+
+.card {
+	margin-top: 3%;
+	font-weight: bold;
+	background-color: rgb(128, 128, 128, 0.00)
+}
+h2 {
+	font-size: 40px;
+}
+.carditem-top {
+	border-top-left-radius: 18px;
+	border-top-right-radius: 18px;
+	padding-bottom: 1px;
+	padding: 5px 25px;
+	padding-top: 5px;
+	padding-bottom: 1px;
+	background-color: rgb(65, 65, 65, 0.9);
+}
+.carditem {
+	border-bottom-left-radius: 18px;
+	border-bottom-right-radius: 18px;
+	padding: 2% 1%;
+	background-color: rgb(46, 46, 46);
+}
+
+
+.sidebyside {
+	display: grid;
+	grid-auto-columns: minmax(50%, 50%);
+	gap: 10px;
+	opacity: 0.9;
+}
+
+.left {
+	grid-column: 1;
+	grid-row: 1;
+}
+.right {
+	grid-column: 2;
+	grid-row: 1;
+}
+
+.subcard {
+	background-color: rgb(55, 55, 55, 0.90);
+	margin: auto;
+}
+
+.cont {
+	display: block;
+	align-items: center;
+	block-size: contain;
+	padding-left: 3%;
+	padding-right: 3%;
+}
+	.cont img {
+		margin-top: 3%;
+		width: 100%;
+		border-radius: 18px;
+		block-size: fit-content;
+	}

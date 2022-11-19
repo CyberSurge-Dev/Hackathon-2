@@ -1,3 +1,75 @@
+/* _content/Hackathon 2/Shared/Docs/CadPage.razor.rz.scp.css */
+h1[b-z0zg5ka0e0], p[b-z0zg5ka0e0] {
+	font-family: Nunito, sans-serif;
+}
+p[b-z0zg5ka0e0] {
+	font-size: 22px;
+	font-weight: normal;
+}
+h1[b-z0zg5ka0e0] {
+	font-weight: bold;
+	font-size: 32px;
+}
+
+.card[b-z0zg5ka0e0] {
+	margin-top: 3%;
+	font-weight: bold;
+	background-color: rgb(128, 128, 128, 0.00)
+}
+h2[b-z0zg5ka0e0] {
+	font-size: 40px;
+}
+.carditem-top[b-z0zg5ka0e0] {
+	border-top-left-radius: 18px;
+	border-top-right-radius: 18px;
+	padding-bottom: 1px;
+	padding: 5px 25px;
+	padding-top: 5px;
+	padding-bottom: 1px;
+	background-color: rgb(65, 65, 65, 0.9);
+}
+.carditem[b-z0zg5ka0e0] {
+	border-bottom-left-radius: 18px;
+	border-bottom-right-radius: 18px;
+	padding: 2% 1%;
+	background-color: rgb(46, 46, 46);
+}
+
+
+.sidebyside[b-z0zg5ka0e0] {
+	display: grid;
+	grid-auto-columns: minmax(50%, 50%);
+	gap: 10px;
+	opacity: 0.9;
+}
+
+.left[b-z0zg5ka0e0] {
+	grid-column: 1;
+	grid-row: 1;
+}
+.right[b-z0zg5ka0e0] {
+	grid-column: 2;
+	grid-row: 1;
+}
+
+.subcard[b-z0zg5ka0e0] {
+	background-color: rgb(55, 55, 55, 0.90);
+	margin: auto;
+}
+
+.cont[b-z0zg5ka0e0] {
+	display: block;
+	align-items: center;
+	block-size: contain;
+	padding-left: 3%;
+	padding-right: 3%;
+}
+	.cont img[b-z0zg5ka0e0] {
+		margin-top: 3%;
+		width: 100%;
+		border-radius: 18px;
+		block-size: fit-content;
+	}
 /* _content/Hackathon 2/Shared/Footer.razor.rz.scp.css */
 footer[b-fz61kcwbhj] {
     padding: 2%;
@@ -18,7 +90,7 @@ header[b-ino0ck0osp] {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    position: fixed;
+    position: absolute;
     width: 100%;
     opacity: 0.8;
     padding: 3px 3%;
@@ -41,6 +113,23 @@ header[b-ino0ck0osp] {
         background-color: rgb(60, 60, 60)
     }
 
+.thing[b-ino0ck0osp] {
+    margin: auto;
+    font-family: Monserrat, sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    padding: 6px 15px;
+    margin: 1px;
+    text-decoration: none;
+    color: white;
+    transition: all 0.3s ease 0s;
+}
+
+    .thing:hover[b-ino0ck0osp] {
+        border-radius: 18px;
+        background-color: rgb(60, 60, 60)
+    }
+
 .contact[b-ino0ck0osp] {
     background-color: rgb(51, 65, 216);
     border-radius: 18px;
@@ -55,9 +144,34 @@ header[b-ino0ck0osp] {
 .icon img[b-ino0ck0osp] {
     width: 50px;
 }
+/* _content/Hackathon 2/Shared/LandingPage.razor.rz.scp.css */
+.main[b-recudxj0zr] {
+	height: 100vh;
+	font-family: "Montserrat-Alt1", sans-serif;
+	font-weight: 700;
+	font-size: 80px;
+	color: white;
+	padding: 0;
+	align-items: center;
+	text-align: center;
+}
+
+.logo[b-recudxj0zr] {
+	width: 35%;
+	align-items: center;
+}
+
+.text[b-recudxj0zr] {
+	text-align: center;
+}
+
+em[b-recudxj0zr] {
+	color: rgb(58, 115, 250);
+	text-decoration: none;
+}
 /* _content/Hackathon 2/Shared/MainLayout.razor.rz.scp.css */
 .background[b-6sm65tiqxr] {
-    background-color: black;
+    background: linear-gradient(rgba(46,46,46,1) 7%, rgba(71,71,71,1) 35%, rgba(63,69,131,1) 68%, rgba(51,65,215,1) 93%);
     width: 100%;
     padding: 6px 4px;
     padding-top: 5%;

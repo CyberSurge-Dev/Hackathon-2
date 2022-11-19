@@ -14,6 +14,7 @@
     <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
   <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)syncfusion.blazor\20.3.0.57\buildTransitive\Syncfusion.Blazor.props" Condition="Exists('$(NuGetPackageRoot)syncfusion.blazor\20.3.0.57\buildTransitive\Syncfusion.Blazor.props')" />
     <Import Project="$(NuGetPackageRoot)blazoranimate\3.0.0\buildTransitive\BlazorAnimate.props" Condition="Exists('$(NuGetPackageRoot)blazoranimate\3.0.0\buildTransitive\BlazorAnimate.props')" />
   </ImportGroup>
 </Project>
