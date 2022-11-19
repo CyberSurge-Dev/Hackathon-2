@@ -1,8 +1,23 @@
 {
   "version": 2,
-  "dgSpecHash": "IOiEglWunA6ZT5E+9c4LfYyc1MwiHJD88STXrikLka1GIDrOSbNb7aERbEyUg5KFrqEI3301V/RaD006CW8rqg==",
+  "dgSpecHash": "S9fSaJQ3GThm/U+zdL7/5su2WMR9VHxnxK1kGflQfZxrXDj2LF4Ot52oXBxOPWKHXHckKgLKjeS5aKPlkdQG5g==",
   "success": true,
   "projectFilePath": "D:\\visual studio code\\Hackathon 2\\Hackathon 2\\Hackathon 2.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Zachary Hoover\\.nuget\\packages\\blazoranimate\\3.0.0\\blazoranimate.3.0.0.nupkg.sha512",
+    "C:\\Users\\Zachary Hoover\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.0\\microsoft.aspnetcore.authorization.3.1.0.nupkg.sha512",
+    "C:\\Users\\Zachary Hoover\\.nuget\\packages\\microsoft.aspnetcore.components\\3.1.0\\microsoft.aspnetcore.components.3.1.0.nupkg.sha512",
+    "C:\\Users\\Zachary Hoover\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\3.1.0\\microsoft.aspnetcore.components.analyzers.3.1.0.nupkg.sha512",
+    "C:\\Users\\Zachary Hoover\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\3.1.0\\microsoft.aspnetcore.components.forms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Zachary Hoover\\.nuget\\packages\\microsoft.aspnetcore.components.web\\3.1.0\\microsoft.aspnetcore.components.web.3.1.0.nupkg.sha512",
+    "C:\\Users\\Zachary Hoover\\.nuget\\packages\\microsoft.aspnetcore.metadata\\3.1.0\\microsoft.aspnetcore.metadata.3.1.0.nupkg.sha512",
+    "C:\\Users\\Zachary Hoover\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.0\\microsoft.extensions.dependencyinjection.3.1.0.nupkg.sha512",
+    "C:\\Users\\Zachary Hoover\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.0\\microsoft.extensions.dependencyinjection.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\Zachary Hoover\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.0\\microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\Zachary Hoover\\.nuget\\packages\\microsoft.extensions.options\\3.1.0\\microsoft.extensions.options.3.1.0.nupkg.sha512",
+    "C:\\Users\\Zachary Hoover\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.0\\microsoft.extensions.primitives.3.1.0.nupkg.sha512",
+    "C:\\Users\\Zachary Hoover\\.nuget\\packages\\microsoft.jsinterop\\3.1.0\\microsoft.jsinterop.3.1.0.nupkg.sha512",
+    "C:\\Users\\Zachary Hoover\\.nuget\\packages\\minver\\2.0.0\\minver.2.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,13 +1,65 @@
 /* _content/Hackathon 2/Shared/Footer.razor.rz.scp.css */
-<h3>Footer.razor</h3>
-
-@code[b-fz61kcwbhj] {
-
+footer[b-fz61kcwbhj] {
+    padding: 2%;
+    align-items: center;
+    background-color: rgb(46, 46, 46);
+    width: 100%;
+    
+    text-align: center;
 }
+
+    footer a[b-fz61kcwbhj] {
+        text-decoration: none;
+        color: white;
+    }
 /* _content/Hackathon 2/Shared/Header.razor.rz.scp.css */
+header[b-ino0ck0osp] {
+    background-color: rgb(46, 46, 46);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    opacity: 0.8;
+    padding: 3px 3%;
+    
+}
+    header a[b-ino0ck0osp] {
+        margin: auto;
+        font-family: Monserrat, sans-serif;
+        font-weight: 500;
+        font-size: 18px;
+        padding: 6px 15px;
+        margin: 1px;
+        text-decoration: none;
+        color: white;
+        transition: all 0.3s ease 0s;
+    }
+
+    header a:hover[b-ino0ck0osp] {
+        border-radius: 18px;
+        background-color: rgb(60, 60, 60)
+    }
+
+.contact[b-ino0ck0osp] {
+    background-color: rgb(51, 65, 216);
+    border-radius: 18px;
+    transition: all 0.3s ease 0s;
+}
+
+.contact:hover[b-ino0ck0osp] {
+    background-color: white;
+    color: black;
+}
+
+.icon img[b-ino0ck0osp] {
+    width: 50px;
+}
 /* _content/Hackathon 2/Shared/MainLayout.razor.rz.scp.css */
 .background[b-6sm65tiqxr] {
     background-color: black;
     width: 100%;
     padding: 6px 4px;
+    padding-top: 5%;
+    color: white;
 }

@@ -31,3 +31,5 @@ D:\visual studio code\Hackathon 2\Hackathon 2\obj\Debug\net7.0\refint\Hackathon 
 D:\visual studio code\Hackathon 2\Hackathon 2\obj\Debug\net7.0\Hackathon 2.pdb
 D:\visual studio code\Hackathon 2\Hackathon 2\obj\Debug\net7.0\Hackathon 2.genruntimeconfig.cache
 D:\visual studio code\Hackathon 2\Hackathon 2\obj\Debug\net7.0\ref\Hackathon 2.dll
+D:\visual studio code\Hackathon 2\Hackathon 2\bin\Debug\net7.0\BlazorAnimate.dll
+D:\visual studio code\Hackathon 2\Hackathon 2\obj\Debug\net7.0\Hackathon 2.csproj.CopyComplete

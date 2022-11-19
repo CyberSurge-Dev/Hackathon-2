@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZxkYrzikrcRIRgcvWydXs+ZinTGsnyRtvgx2sgkV9sY=",
+  "Hash": "GdvMAO/uuuw+PuhmRjyNWGxyQtgjCJd1elUbH1UvxhQ=",
   "Source": "Hackathon 2",
   "BasePath": "_content/Hackathon 2",
   "Mode": "Default",
@@ -16,6 +16,40 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\Zachary Hoover\\.nuget\\packages\\blazoranimate\\3.0.0\\staticwebassets\\aos.css",
+      "SourceId": "BlazorAnimate",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Zachary Hoover\\.nuget\\packages\\blazoranimate\\3.0.0\\staticwebassets\\",
+      "BasePath": "_content/BlazorAnimate",
+      "RelativePath": "aos.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Zachary Hoover\\.nuget\\packages\\blazoranimate\\3.0.0\\staticwebassets\\aos.css"
+    },
+    {
+      "Identity": "C:\\Users\\Zachary Hoover\\.nuget\\packages\\blazoranimate\\3.0.0\\staticwebassets\\blazorAnimateInterop.js",
+      "SourceId": "BlazorAnimate",
+      "SourceType": "Package",
+      "ContentRoot": "C:\\Users\\Zachary Hoover\\.nuget\\packages\\blazoranimate\\3.0.0\\staticwebassets\\",
+      "BasePath": "_content/BlazorAnimate",
+      "RelativePath": "blazorAnimateInterop.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\Zachary Hoover\\.nuget\\packages\\blazoranimate\\3.0.0\\staticwebassets\\blazorAnimateInterop.js"
+    },
     {
       "Identity": "D:\\visual studio code\\Hackathon 2\\Hackathon 2\\obj\\Debug\\net7.0\\scopedcss\\bundle\\Hackathon 2.styles.css",
       "SourceId": "Hackathon 2",
@@ -270,6 +304,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.png"
+    },
+    {
+      "Identity": "D:\\visual studio code\\Hackathon 2\\Hackathon 2\\wwwroot\\images\\robot.webp",
+      "SourceId": "Hackathon 2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visual studio code\\Hackathon 2\\Hackathon 2\\wwwroot\\",
+      "BasePath": "_content/Hackathon 2",
+      "RelativePath": "images/robot.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\robot.webp"
     }
   ]
 }

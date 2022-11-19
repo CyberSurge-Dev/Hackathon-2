@@ -1,1 +1,42 @@
-﻿
+﻿header {
+    background-color: rgb(46, 46, 46);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    opacity: 0.8;
+    padding: 3px 3%;
+    
+}
+    header a {
+        margin: auto;
+        font-family: Monserrat, sans-serif;
+        font-weight: 500;
+        font-size: 18px;
+        padding: 6px 15px;
+        margin: 1px;
+        text-decoration: none;
+        color: white;
+        transition: all 0.3s ease 0s;
+    }
+
+    header a:hover {
+        border-radius: 18px;
+        background-color: rgb(60, 60, 60)
+    }
+
+.contact {
+    background-color: rgb(51, 65, 216);
+    border-radius: 18px;
+    transition: all 0.3s ease 0s;
+}
+
+.contact:hover {
+    background-color: white;
+    color: black;
+}
+
+.icon img {
+    width: 50px;
+}

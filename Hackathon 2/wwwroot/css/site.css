@@ -1,7 +1,11 @@
 @import url('open-iconic/font/css/open-iconic-bootstrap.min.css');
+@import url('https://fonts.googleapis.com/css?family=Monserrat:500');
+@import url("fonts/webfonts/Montserrat-Alt1.css");
+@import url('https://fonts.googleapis.com/css?family=Nunito');
 
 html, body {
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    overflow-x: hidden;
 }
 
 h1:focus {

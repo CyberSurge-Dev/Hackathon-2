@@ -57,6 +57,10 @@
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
+      "Id": "D:\\visual studio code\\Hackathon 2\\Hackathon 2\\wwwroot\\images\\robot.webp",
+      "PackagePath": "staticwebassets\\images\\robot.webp"
+    },
+    {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Hackathon 2.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
