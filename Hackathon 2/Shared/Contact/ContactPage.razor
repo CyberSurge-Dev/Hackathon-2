@@ -1,4 +1,6 @@
-﻿<Animate Animation="Animations.ZoomIn" Duration="TimeSpan.FromSeconds(0.5)" Delay="TimeSpan.FromSeconds(0)">
+﻿@using System.Net.Mail;
+
+<Animate Animation="Animations.ZoomIn" Duration="TimeSpan.FromSeconds(0.5)" Delay="TimeSpan.FromSeconds(0)">
 <div class="card">
 	<div class="carditem-top">
 		<h2>Contact us</h2>
@@ -12,23 +14,23 @@
 				<div class="sidebyside">
 					<div class="left">
 						<h1>First Name</h1>
-						<input class="infobox" />
+							<input placeholder="First Name" class="infobox" id="firstname" type="text" @bind=@firstname />
 					</div>
 					<div class="right">
 						<h1>Last Name</h1>
-						<input class="infobox" />
+							<input placeholder="Last Name" class="infobox" id="lastname" @bind=@lastname />
 					</div>
 				</div>
 				<h1>Email</h1>
-				<input class="infobox" />
+					<input placeholder="Email" class="infobox" id="email" @bind=@email />
 				<h1>Message</h1>
-				<textarea class="mbox"></textarea>
+					<textarea placeholder="Type your message here." class="mbox" id="message" @bind=@message></textarea>
 				<div class="pad-top2">
-					<a class="send">Send</a>
-					<a class="email" href="trialnerror42@gmail.com">Email us</a>
+					<button class="send" @onclick="sendMail">Send</button>
+					<a class="email" href="mailto:trialnerror42@gmail.com">Email us</a>
 					<a class="email" href="https://trialnerror42.wixsite.com/website" target="_blank">Our website</a>
 				</div>
-				
+				<p style="font-weight: bold; color: white; font-size: 28px;"> @res </p>
 			</div>
 		</div>
 	</div>
@@ -36,5 +38,43 @@
 </Animate>
 
 @code {
+	string firstname = "";
+	string lastname = "";
+	string email = "";
+	string message = "";
+	string res = "";
 
+	private void sendMail()
+	{
+		try
+		{
+			if (firstname == "" || lastname == "" || email == "" || message == "")
+			{
+				res = "Invalid! Please fill all fields.";
+			} else
+			{
+				using (MailMessage mail = new MailMessage())
+				{
+					mail.From = new MailAddress("zhoover.me@gmail.com");
+					mail.To.Add("zhoover.me@gmail.com");
+					mail.Subject = "Hackathon Website Email";
+					mail.Body = $"<h2>Email: {email}</h2> <h2>First Name: {firstname}</h2> <h2>Last Name: {lastname}</h2> <h2>Message:</h2> <h3>{message}</h3>";
+					mail.IsBodyHtml = true;
+
+					using (SmtpClient smpt = new SmtpClient("smtp.gmail.com", 587))
+					{
+						smpt.Credentials = new System.Net.NetworkCredential("zhoover.me@gmail.com", "mqeafxzzymvjhxfm");
+						smpt.EnableSsl = true;
+						smpt.Send(mail);
+						res = "Sent!";
+
+					}
+				}
+			}
+
+		} catch (Exception ex)
+		{
+			res = ex.ToString();
+		}
+	}
 }
