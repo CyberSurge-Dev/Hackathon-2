@@ -57,3 +57,13 @@ header[b-ino0ck0osp] {
 .icon img[b-ino0ck0osp] {
     width: 50px;
 }
+
+.middle[b-ino0ck0osp] {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 40%;
+    align-content: center;
+    opacity: 0.8;
+    padding: 3px 9%;
+}

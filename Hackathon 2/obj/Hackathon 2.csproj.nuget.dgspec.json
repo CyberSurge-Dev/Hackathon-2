@@ -49,10 +49,6 @@
             "BlazorAnimate": {
               "target": "Package",
               "version": "[3.0.0, )"
-            },
-            "Syncfusion.Blazor": {
-              "target": "Package",
-              "version": "[20.3.0.57, )"
             }
           },
           "imports": [

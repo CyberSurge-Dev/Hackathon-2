@@ -4,10 +4,12 @@
 p {
 	font-size: 22px;
 	font-weight: normal;
+	color: rgb(202, 202, 202)
 }
 h1 {
 	font-weight: bold;
 	font-size: 32px;
+	margin-top:4%;
 }
 
 .card {
@@ -18,7 +20,36 @@ h1 {
 h2 {
 	font-size: 40px;
 }
+h3 {
+	margin-top: 2%;
+	font-size: 24px;
+	color: rgb(202, 202, 202);
+	font-weight: bold;
+}
+.lk {
+	font-size: 24px;
+}
+
+.lk a {
+	font-weight: normal;
+	text-decoration: none;
+	font-size: 24px;
+	color: rgb(202, 202, 202);
+	transition: all 0.3s ease 0s;
+}
+.lk a:hover {
+	color:white;
+}
+.lst {
+	color: rgb(202, 202, 202);
+	text-decoration: none;
+	font-weight: normal;
+	font-size: 22px
+}
 .carditem-top {
+
+	border: none;
+
 	border-top-left-radius: 18px;
 	border-top-right-radius: 18px;
 	padding-bottom: 1px;
@@ -28,6 +59,9 @@ h2 {
 	background-color: rgb(65, 65, 65, 0.9);
 }
 .carditem {
+
+	border: none;
+
 	border-bottom-left-radius: 18px;
 	border-bottom-right-radius: 18px;
 	padding: 2% 1%;
@@ -52,6 +86,9 @@ h2 {
 }
 
 .subcard {
+	margin-left: 2%;
+	margin-right: 2%;
+	border: none;
 	background-color: rgb(55, 55, 55, 0.90);
 	margin: auto;
 }
@@ -68,4 +105,19 @@ h2 {
 		width: 100%;
 		border-radius: 18px;
 		block-size: fit-content;
+		border-width: 5px;
+		border-style: outset;
+		border-color: rgba(202, 202, 202,0);
+		transition: all 0.3s ease 0s;
 	}
+		.cont img:hover {
+			border-style: outset;
+			border-color: rgb(202, 202, 202);
+		}
+
+.carditem img {
+	width: 100%;
+	margin: auto;
+}
+
+

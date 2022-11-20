@@ -20,7 +20,6 @@
 
   <ItemGroup>
     <PackageReference Include="BlazorAnimate" Version="3.0.0" />
-    <PackageReference Include="Syncfusion.Blazor" Version="20.3.0.57" />
   </ItemGroup>
 
 </Project>
