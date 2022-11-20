@@ -35,3 +35,5 @@ D:\visual studio code\Hackathon 2\Hackathon 2\bin\Debug\net7.0\BlazorAnimate.dll
 D:\visual studio code\Hackathon 2\Hackathon 2\obj\Debug\net7.0\Hackathon 2.csproj.CopyComplete
 D:\visual studio code\Hackathon 2\Hackathon 2\obj\Debug\net7.0\scopedcss\Shared\LandingPage.razor.rz.scp.css
 D:\visual studio code\Hackathon 2\Hackathon 2\obj\Debug\net7.0\scopedcss\Shared\Docs\CadPage.razor.rz.scp.css
+D:\visual studio code\Hackathon 2\Hackathon 2\obj\Debug\net7.0\scopedcss\Shared\Contact\ContactPage.razor.rz.scp.css
+D:\visual studio code\Hackathon 2\Hackathon 2\obj\Debug\net7.0\scopedcss\Shared\About us\AboutUsPage.razor.rz.scp.css

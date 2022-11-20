@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Y/C55zf2/4gQPDPbrhLcHWUCWDOAGaQ0a4M/Y6NEnMo=",
+  "Hash": "XPx9k1UI6yuv2aWduQ18T5c9Px8FFvXOHNv0yk6TfGg=",
   "Source": "Hackathon 2",
   "BasePath": "_content/Hackathon 2",
   "Mode": "Default",
@@ -340,6 +340,23 @@
       "OriginalItemSpec": "wwwroot\\images\\img.png"
     },
     {
+      "Identity": "D:\\visual studio code\\Hackathon 2\\Hackathon 2\\wwwroot\\images\\prusa.png",
+      "SourceId": "Hackathon 2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visual studio code\\Hackathon 2\\Hackathon 2\\wwwroot\\",
+      "BasePath": "_content/Hackathon 2",
+      "RelativePath": "images/prusa.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\prusa.png"
+    },
+    {
       "Identity": "D:\\visual studio code\\Hackathon 2\\Hackathon 2\\wwwroot\\images\\robot.webp",
       "SourceId": "Hackathon 2",
       "SourceType": "Discovered",
@@ -355,6 +372,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\robot.webp"
+    },
+    {
+      "Identity": "D:\\visual studio code\\Hackathon 2\\Hackathon 2\\wwwroot\\images\\trialnerror.webp",
+      "SourceId": "Hackathon 2",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\visual studio code\\Hackathon 2\\Hackathon 2\\wwwroot\\",
+      "BasePath": "_content/Hackathon 2",
+      "RelativePath": "images/trialnerror.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\trialnerror.webp"
     }
   ]
 }

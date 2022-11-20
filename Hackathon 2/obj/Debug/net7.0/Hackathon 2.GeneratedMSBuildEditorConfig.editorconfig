@@ -20,6 +20,14 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/visual studio code/Hackathon 2/Hackathon 2/Pages/AboutUs.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXRVcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/visual studio code/Hackathon 2/Hackathon 2/Pages/Contact.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/visual studio code/Hackathon 2/Hackathon 2/Pages/Docs.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG9jcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
@@ -31,6 +39,14 @@ build_metadata.AdditionalFiles.CssScope =
 [D:/visual studio code/Hackathon 2/Hackathon 2/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
+
+[D:/visual studio code/Hackathon 2/Hackathon 2/Shared/About us/AboutUsPage.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEFib3V0IHVzXEFib3V0VXNQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = b-p8n91q9ggu
+
+[D:/visual studio code/Hackathon 2/Hackathon 2/Shared/Contact/ContactPage.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbnRhY3RcQ29udGFjdFBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-rdt8gvzk2k
 
 [D:/visual studio code/Hackathon 2/Hackathon 2/Shared/Docs/CadPage.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXERvY3NcQ2FkUGFnZS5yYXpvcg==

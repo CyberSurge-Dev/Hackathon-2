@@ -65,8 +65,16 @@
       "PackagePath": "staticwebassets\\images\\img.png"
     },
     {
+      "Id": "D:\\visual studio code\\Hackathon 2\\Hackathon 2\\wwwroot\\images\\prusa.png",
+      "PackagePath": "staticwebassets\\images\\prusa.png"
+    },
+    {
       "Id": "D:\\visual studio code\\Hackathon 2\\Hackathon 2\\wwwroot\\images\\robot.webp",
       "PackagePath": "staticwebassets\\images\\robot.webp"
+    },
+    {
+      "Id": "D:\\visual studio code\\Hackathon 2\\Hackathon 2\\wwwroot\\images\\trialnerror.webp",
+      "PackagePath": "staticwebassets\\images\\trialnerror.webp"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Hackathon 2.Microsoft.AspNetCore.StaticWebAssets.props",

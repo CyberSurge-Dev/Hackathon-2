@@ -8,12 +8,16 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="Shared\About us\AboutUsPage.razor.css" />
+    <None Remove="Shared\Contact\ContactPage.razor.css" />
     <None Remove="Shared\Docs\CadPage.razor.css" />
     <None Remove="Shared\LandingPage.razor.css" />
     <None Remove="Shared\LogoArea - Copy.razor.css" />
   </ItemGroup>
 
   <ItemGroup>
+    <Content Include="Shared\About us\AboutUsPage.razor.css" />
+    <Content Include="Shared\Contact\ContactPage.razor.css" />
     <Content Include="Shared\Docs\CadPage.razor.css" />
     <Content Include="Shared\LandingPage.razor.css" />
   </ItemGroup>
