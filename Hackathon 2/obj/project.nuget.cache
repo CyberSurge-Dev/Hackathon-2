@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S9fSaJQ3GThm/U+zdL7/5su2WMR9VHxnxK1kGflQfZxrXDj2LF4Ot52oXBxOPWKHXHckKgLKjeS5aKPlkdQG5g==",
+  "dgSpecHash": "+sM27CPSkJNiExI4U6eN55hobbCzQksJJAIA64d0R6zOn3NvMZ59keOamzA6WZF2RWAMnVuwwzGGkWXXEd8+/w==",
   "success": true,
-  "projectFilePath": "D:\\visual studio code\\Hackathon 2\\Hackathon 2\\Hackathon 2.csproj",
+  "projectFilePath": "D:\\WebsiteNew\\Hackathon 2\\Hackathon 2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zachary Hoover\\.nuget\\packages\\blazoranimate\\3.0.0\\blazoranimate.3.0.0.nupkg.sha512",
     "C:\\Users\\Zachary Hoover\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.1.0\\microsoft.aspnetcore.authorization.3.1.0.nupkg.sha512",

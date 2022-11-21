@@ -453,11 +453,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\visual studio code\\Hackathon 2\\Hackathon 2\\Hackathon 2.csproj",
+      "projectUniqueName": "D:\\WebsiteNew\\Hackathon 2\\Hackathon 2.csproj",
       "projectName": "Hackathon 2",
-      "projectPath": "D:\\visual studio code\\Hackathon 2\\Hackathon 2\\Hackathon 2.csproj",
+      "projectPath": "D:\\WebsiteNew\\Hackathon 2\\Hackathon 2.csproj",
       "packagesPath": "C:\\Users\\Zachary Hoover\\.nuget\\packages\\",
-      "outputPath": "D:\\visual studio code\\Hackathon 2\\Hackathon 2\\obj\\",
+      "outputPath": "D:\\WebsiteNew\\Hackathon 2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

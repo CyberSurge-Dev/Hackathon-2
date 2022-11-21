@@ -9,69 +9,69 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Hackathon_2
 build_property.RootNamespace = Hackathon_2
-build_property.ProjectDir = D:\visual studio code\Hackathon 2\Hackathon 2\
+build_property.ProjectDir = D:\WebsiteNew\Hackathon 2\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\visual studio code\Hackathon 2\Hackathon 2
+build_property.MSBuildProjectDirectory = D:\WebsiteNew\Hackathon 2
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/visual studio code/Hackathon 2/Hackathon 2/App.razor]
+[D:/WebsiteNew/Hackathon 2/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/visual studio code/Hackathon 2/Hackathon 2/Pages/AboutUs.razor]
+[D:/WebsiteNew/Hackathon 2/Pages/AboutUs.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXRVcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/visual studio code/Hackathon 2/Hackathon 2/Pages/Contact.razor]
+[D:/WebsiteNew/Hackathon 2/Pages/Contact.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/visual studio code/Hackathon 2/Hackathon 2/Pages/Docs.razor]
+[D:/WebsiteNew/Hackathon 2/Pages/Docs.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRG9jcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/visual studio code/Hackathon 2/Hackathon 2/Pages/Index.razor]
+[D:/WebsiteNew/Hackathon 2/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/visual studio code/Hackathon 2/Hackathon 2/_Imports.razor]
+[D:/WebsiteNew/Hackathon 2/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/visual studio code/Hackathon 2/Hackathon 2/Shared/About us/AboutUsPage.razor]
+[D:/WebsiteNew/Hackathon 2/Shared/About us/AboutUsPage.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEFib3V0IHVzXEFib3V0VXNQYWdlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-p8n91q9ggu
 
-[D:/visual studio code/Hackathon 2/Hackathon 2/Shared/Contact/ContactPage.razor]
+[D:/WebsiteNew/Hackathon 2/Shared/Contact/ContactPage.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXENvbnRhY3RcQ29udGFjdFBhZ2UucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-rdt8gvzk2k
 
-[D:/visual studio code/Hackathon 2/Hackathon 2/Shared/Docs/CadPage.razor]
+[D:/WebsiteNew/Hackathon 2/Shared/Docs/CadPage.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXERvY3NcQ2FkUGFnZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-z0zg5ka0e0
 
-[D:/visual studio code/Hackathon 2/Hackathon 2/Shared/Footer.razor]
+[D:/WebsiteNew/Hackathon 2/Shared/Footer.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEZvb3Rlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-fz61kcwbhj
 
-[D:/visual studio code/Hackathon 2/Hackathon 2/Shared/Header.razor]
+[D:/WebsiteNew/Hackathon 2/Shared/Header.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEhlYWRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-ino0ck0osp
 
-[D:/visual studio code/Hackathon 2/Hackathon 2/Shared/LandingPage.razor]
+[D:/WebsiteNew/Hackathon 2/Shared/LandingPage.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXExhbmRpbmdQYWdlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-recudxj0zr
 
-[D:/visual studio code/Hackathon 2/Hackathon 2/Shared/MainLayout.razor]
+[D:/WebsiteNew/Hackathon 2/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-6sm65tiqxr
 
-[D:/visual studio code/Hackathon 2/Hackathon 2/Pages/Error.cshtml]
+[D:/WebsiteNew/Hackathon 2/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/visual studio code/Hackathon 2/Hackathon 2/Pages/_Host.cshtml]
+[D:/WebsiteNew/Hackathon 2/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
