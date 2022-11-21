@@ -55,15 +55,15 @@
 			{
 				using (MailMessage mail = new MailMessage())
 				{
-					mail.From = new MailAddress( {Sender Email} );
-					mail.To.Add( {From email} );
+					mail.From = new MailAddress("zhoover.me@gmail.com");
+					mail.To.Add("zhoover.me@gmail.com");
 					mail.Subject = "Hackathon Website Email";
 					mail.Body = $"<h2>Email: {email}</h2> <h2>First Name: {firstname}</h2> <h2>Last Name: {lastname}</h2> <h2>Message:</h2> <h3>{message}</h3>";
 					mail.IsBodyHtml = true;
 
 					using (SmtpClient smpt = new SmtpClient("smtp.gmail.com", 587))
 					{
-						smpt.Credentials = new System.Net.NetworkCredential( {Sender Email} , {Application Password} );
+						smpt.Credentials = new System.Net.NetworkCredential("zhoover.me@gmail.com", "mqeafxzzymvjhxfm");
 						smpt.EnableSsl = true;
 						smpt.Send(mail);
 						res = "Sent!";

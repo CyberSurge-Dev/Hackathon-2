@@ -37,3 +37,42 @@ D:\visual studio code\Hackathon 2\Hackathon 2\obj\Debug\net7.0\scopedcss\Shared\
 D:\visual studio code\Hackathon 2\Hackathon 2\obj\Debug\net7.0\scopedcss\Shared\Docs\CadPage.razor.rz.scp.css
 D:\visual studio code\Hackathon 2\Hackathon 2\obj\Debug\net7.0\scopedcss\Shared\Contact\ContactPage.razor.rz.scp.css
 D:\visual studio code\Hackathon 2\Hackathon 2\obj\Debug\net7.0\scopedcss\Shared\About us\AboutUsPage.razor.rz.scp.css
+D:\WebsiteNew\Hackathon 2\obj\Debug\net7.0\Hackathon 2.csproj.AssemblyReference.cache
+D:\WebsiteNew\Hackathon 2\obj\Debug\net7.0\Hackathon 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebsiteNew\Hackathon 2\obj\Debug\net7.0\Hackathon 2.AssemblyInfoInputs.cache
+D:\WebsiteNew\Hackathon 2\obj\Debug\net7.0\Hackathon 2.AssemblyInfo.cs
+D:\WebsiteNew\Hackathon 2\obj\Debug\net7.0\Hackathon 2.csproj.CoreCompileInputs.cache
+D:\WebsiteNew\Hackathon 2\obj\Debug\net7.0\Hackathon 2.MvcApplicationPartsAssemblyInfo.cache
+D:\WebsiteNew\Hackathon 2\obj\Debug\net7.0\Hackathon 2.RazorAssemblyInfo.cache
+D:\WebsiteNew\Hackathon 2\obj\Debug\net7.0\Hackathon 2.RazorAssemblyInfo.cs
+D:\WebsiteNew\Hackathon 2\obj\Debug\net7.0\Hackathon 2.dll
+D:\WebsiteNew\Hackathon 2\obj\Debug\net7.0\refint\Hackathon 2.dll
+D:\WebsiteNew\Hackathon 2\obj\Debug\net7.0\Hackathon 2.pdb
+D:\WebsiteNew\Hackathon 2\bin\Debug\net7.0\appsettings.Development.json
+D:\WebsiteNew\Hackathon 2\bin\Debug\net7.0\appsettings.json
+D:\WebsiteNew\Hackathon 2\bin\Debug\net7.0\Hackathon 2.staticwebassets.runtime.json
+D:\WebsiteNew\Hackathon 2\bin\Debug\net7.0\Hackathon 2.exe
+D:\WebsiteNew\Hackathon 2\bin\Debug\net7.0\Hackathon 2.deps.json
+D:\WebsiteNew\Hackathon 2\bin\Debug\net7.0\Hackathon 2.runtimeconfig.json
+D:\WebsiteNew\Hackathon 2\bin\Debug\net7.0\Hackathon 2.dll
+D:\WebsiteNew\Hackathon 2\bin\Debug\net7.0\Hackathon 2.pdb
+D:\WebsiteNew\Hackathon 2\bin\Debug\net7.0\BlazorAnimate.dll
+D:\WebsiteNew\Hackathon 2\obj\Debug\net7.0\staticwebassets\msbuild.Hackathon 2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\WebsiteNew\Hackathon 2\obj\Debug\net7.0\staticwebassets\msbuild.build.Hackathon 2.props
+D:\WebsiteNew\Hackathon 2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Hackathon 2.props
+D:\WebsiteNew\Hackathon 2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Hackathon 2.props
+D:\WebsiteNew\Hackathon 2\obj\Debug\net7.0\staticwebassets.pack.json
+D:\WebsiteNew\Hackathon 2\obj\Debug\net7.0\staticwebassets.build.json
+D:\WebsiteNew\Hackathon 2\obj\Debug\net7.0\staticwebassets.development.json
+D:\WebsiteNew\Hackathon 2\obj\Debug\net7.0\scopedcss\Shared\Footer.razor.rz.scp.css
+D:\WebsiteNew\Hackathon 2\obj\Debug\net7.0\scopedcss\Shared\Header.razor.rz.scp.css
+D:\WebsiteNew\Hackathon 2\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\WebsiteNew\Hackathon 2\obj\Debug\net7.0\scopedcss\Shared\About us\AboutUsPage.razor.rz.scp.css
+D:\WebsiteNew\Hackathon 2\obj\Debug\net7.0\scopedcss\Shared\Contact\ContactPage.razor.rz.scp.css
+D:\WebsiteNew\Hackathon 2\obj\Debug\net7.0\scopedcss\Shared\Docs\CadPage.razor.rz.scp.css
+D:\WebsiteNew\Hackathon 2\obj\Debug\net7.0\scopedcss\Shared\LandingPage.razor.rz.scp.css
+D:\WebsiteNew\Hackathon 2\obj\Debug\net7.0\scopedcss\bundle\Hackathon 2.styles.css
+D:\WebsiteNew\Hackathon 2\obj\Debug\net7.0\scopedcss\projectbundle\Hackathon 2.bundle.scp.css
+D:\WebsiteNew\Hackathon 2\obj\Debug\net7.0\Hackathon 2.csproj.CopyComplete
+D:\WebsiteNew\Hackathon 2\obj\Debug\net7.0\Hackathon 2.genruntimeconfig.cache
+D:\WebsiteNew\Hackathon 2\obj\Debug\net7.0\ref\Hackathon 2.dll

@@ -26,4 +26,9 @@
     <PackageReference Include="BlazorAnimate" Version="3.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Shared\Forums\" />
+    <Folder Include="Shared\Awards\" />
+  </ItemGroup>
+
 </Project>
